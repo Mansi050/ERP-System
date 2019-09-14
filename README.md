@@ -1,1 +1,1 @@
-The website for faculty and leave managment system.
+An ERP System for Leave and Asignment Management System
